@@ -1,4 +1,4 @@
-<1doctype html>
+
 <html>
   <head>
       <title> 전성훈 </title>
