@@ -5,9 +5,7 @@
   </head>
   
   
-  <body>
-    <h1> 전성훈 </h1>
-      
+  <body>  
   <ul>
         <li>운동</li>
         <li>집</li>
@@ -18,8 +16,6 @@
         <li>인생관</li>
         <li>투자</li>
         <li>라이프스타일</li>
-    
-    
     </ul>
   </body>
       
