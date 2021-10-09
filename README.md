@@ -8,7 +8,7 @@
   
   <body>  
   <ul>
-        <li> <a href ="www.naver.com"> 운동 </a> </li>
+        <li> <a href ="pm.html"> 운동 </a> </li>
         <li>집</li>
         <li>미술</li>
         <li>코딩</li>
