@@ -2,14 +2,15 @@
 
 <html>
   <head>
-    <title>성훈</title>
-    <style>
-       img { text-align: center; }
-    </style>
+   
   </head>
   
   
-  <body>  
+  <body> 
+     <title>성훈</title>
+    <style>
+       img { text-align: center; }
+    </style>
    <p> 
 <img src = "244758371_1038428606927492_8003114273822075846_n.jpg"  style ="text-align:center" width ="400" height="300">
     </p>
