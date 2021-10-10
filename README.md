@@ -8,11 +8,11 @@
   
   <body>  
    <p> 
-<img src = "244758371_1038428606927492_8003114273822075846_n.jpg"  style = " text-align : center " width = "400" height ="300">
+<img src = "244758371_1038428606927492_8003114273822075846_n.jpg"  style = "text-align:center" width = "400" height ="300">
     </p>
     <p>
   <ul>
-        <li> <a href ="pm.html" target = "_blank" style = "color:red"> 운동 </a> </li>
+        <li> <a href ="pm.html" target = "_blank" style = "color:gray"> 운동 </a> </li>
         <li>집</li>
         <li>코딩</li>
         <li>내면</li>
