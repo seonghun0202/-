@@ -12,7 +12,7 @@
     </p>
     <p>
   <ul>
-        <li> <a href ="pm.html" target = "_blank"> 운동 </a> </li>
+        <li> <a href ="pm.html" target = "_blank" style = "color : gray "> 운동 </a> </li>
         <li>집</li>
         <li>코딩</li>
         <li>내면</li>
