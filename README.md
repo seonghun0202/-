@@ -8,7 +8,7 @@
   
   <body>  
    <p> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wdcy-U01l3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src = "244758371_1038428606927492_8003114273822075846_n.jpg">
     </p>
     <p>
   <ul>
