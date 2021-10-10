@@ -12,6 +12,7 @@
        img{
       text-align: center;
       }
+      li{color:gray:}
     </style>
    <p> 
 <img src = "244758371_1038428606927492_8003114273822075846_n.jpg"  style ="text-align:center" width ="400" height="300">
