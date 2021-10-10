@@ -3,12 +3,15 @@
 <html>
   <head>
     <title>성훈</title>
+    <style>
+       a { text-align: center; }
+    </style>
   </head>
   
   
   <body>  
    <p> 
-<img src = "244758371_1038428606927492_8003114273822075846_n.jpg"  style ="text-align:center" width ="500" height="300">
+<img src = "244758371_1038428606927492_8003114273822075846_n.jpg"  style ="text-align:center" width ="400" height="300">
     </p>
     <p>
   <ul>
