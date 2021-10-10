@@ -13,15 +13,17 @@
     <p>
   <ul>
         <li> <a href ="pm.html" target = "_blank"> 운동 </a> </li>
-        <li>건축</li>
-        <li>미술</li>
+        <li>집</li>
+        
         <li>코딩</li>
         <li>내면</li>
         <li>인생관</li>
         <li>투자</li>
         <li>미니멀</li>
         <li>끄적끄적</li>
+        <li>독후감</li>
         <li>밥풀이</li>
+        <li>미술</li>
     </ul>
     </p>
   
