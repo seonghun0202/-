@@ -1,5 +1,4 @@
-
-
+<!DOCTYPE html>
 <html>
   <head>
    
@@ -70,3 +69,4 @@
   </p>
   
   </body>
+  </html>
