@@ -4,7 +4,7 @@
   <head>
     <title>성훈</title>
     <style>
-       a { text-align: center; }
+       img { text-align: center; }
     </style>
   </head>
   
