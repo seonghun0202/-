@@ -48,6 +48,7 @@
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
   </p>
   
+  <!--
   <p>
   <!--Start of Tawk.to Script-->
 <script type="text/javascript">
@@ -63,6 +64,7 @@ s0.parentNode.insertBefore(s1,s0);
 </script>
 <!--End of Tawk.to Script-->
   </p>
+ -->
  
  <p>
   <!-- Global site tag (gtag.js) - Google Analytics -->
