@@ -2,7 +2,7 @@
 
 <html>
   <head>
-      <title> 전성훈 </title>
+      
     <style>
       a { color = "gray"}
     </style>
