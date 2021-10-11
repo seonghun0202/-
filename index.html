@@ -1,98 +1,30 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
-   <title>성훈</title>
-    <style>
-      a {
-        color:black;
-        }
-      ul {
-         border-right : 1px solid gray ;
-        width : 100px;
-        margin : 0;
-         }
-      li {
-         height : 100px;
-          }
-      .container{
-        display : grid;
-        grid-template-rows: repeat (6,1fr);
-      }
-      
-    </style>
+    <title> 레이아웃 공부중 </title>
+    
+   <style>
+     .container{}
+     .container div{
+     background-color : gray;
+     padding : 20px
+     border : 1px solid black
+     }
+     .hleft{}
+     .hright{}
+     .main{}
+     .menu{}
+     .footer{}
   </head>
   
- 
   <body>
-    
-    
-    
-    
-    <div class="container">
-      <div class = "item">운동</div> 
-      <div class = "item">책</div> 
-      <div class = "item">투자</div>
-      <div class = "item">인생관</div> 
-      <div class = "item">미니멀</div> 
-      <div class = "item">끄적끄적</div> 
- 
-      
-    </div>
-        
-        
-        
-        
-        
-  <!-- <p> 
-<img src = "244758371_1038428606927492_8003114273822075846_n.jpg"  style ="text-align:center" width ="400" height="300">
-    </p> -->
-  <ul>
-    <li> <a href ="index.html" target = "_blank" > 나 </a> </li>
-    <li> <a href ="pm.html" target = "_blank" > 운동 </a> </li>
-    <li> <a href ="imvestmen송t.html" target = "_blank" > 투자 </a> </li>
-    <li> <a href ="life.html" target = "_blank" > 인생관 </a> </li>
-    <li> <a href ="reading.html" target = "_blank" > 독서 </a> </li>
-    <li> <a href ="pet.html" target = "_blank" > 밥풀 </a> </li>
-    <li> <a href ="minimal.html" target = "_blank" > 미니멀 </a> </li>
-    <li> <a href ="coding.html" target = "_blank"> 코딩 </a> </li>
-    
-    </ul>
-  
-  <p>
-    <div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://sns2.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-  </p>
-  
-
- 
- <p>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-CFM4T95GZT"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-CFM4T95GZT');
-</script>
-  </p>
-  
+    <div class = "container">
+      <div class ="hleft">hleft</div>
+       <div class = "hright">hright</div>
+       <div class = "menu">menu</div>
+       <div class = "main">main</div>
+       <div class = "footer">footer</div>
+     </div>
   </body>
-  </html>
+  
+</html>
